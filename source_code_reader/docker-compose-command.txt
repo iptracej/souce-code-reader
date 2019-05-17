@@ -1,0 +1,10 @@
+# Run the following command: 
+# For first-time(build and run):
+docker-compose up --build
+
+# For next-time(run):
+docker-compose up -d
+
+After running the docker image,
+
+access to http://localhost:8080

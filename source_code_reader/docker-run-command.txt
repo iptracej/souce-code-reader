@@ -1,0 +1,1 @@
+docker run --rm -it <your docker name> /bin/sh
